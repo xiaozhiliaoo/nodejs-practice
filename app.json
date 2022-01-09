@@ -1,0 +1,6 @@
+{
+  "name": "Node.js Practice",
+  "description": "Node.js app using Express 4",
+  "repository": "https://github.com/xiaozhiliaoo/nodejs-practice",
+  "keywords": ["node", "express", "static"]
+}

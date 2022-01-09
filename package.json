@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-practice",
+  "version": "0.0.1",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": ">=0.10.3 <15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaozhiliaoo/nodejs-practice"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "xiaozhiliaoo",
+  "contributors": [
+    "xiaozhiliaoo <xiaozhiliaoo@gmail.com> (https://xiaozhiliaoo.github.io/)"
+  ],
+  "license": "MIT"
+}
